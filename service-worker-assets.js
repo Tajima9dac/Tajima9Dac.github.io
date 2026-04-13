@@ -193,7 +193,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-wdLxOB7hsju6As9WyTcN\/NhKRWX9JiIQUmIHP0XLa84=",
+      "hash": "sha256-5a91ZoRjGN5O0LJRz25TtynizgXJq21qOsD+iWs\/7q8=",
       "url": "index.html"
     },
     {
@@ -393,5 +393,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "yzS\/PJCF"
+  "version": "bkZe7Htw"
 };
