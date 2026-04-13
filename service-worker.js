@@ -1,4 +1,4 @@
-/* Manifest version: B4cj6jcA */
+/* Manifest version: yzS/PJCF */
 self.importScripts('/service-worker-assets.js');
 
 const cacheNamePrefix = 'offline-cache-';
